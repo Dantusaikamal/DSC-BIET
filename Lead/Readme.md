@@ -1,7 +1,7 @@
 # Resources provided for Google DSC Leads
 
 ## Leadership
-7Ps of communities (we highly recommend reviewing this one!)
+[7Ps of communities](https://cmxhub.com/the-7ps-of-community/) (we highly recommend reviewing this one!)
 
 https://www.wikihow.com/Be-a-Leader
 
